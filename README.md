@@ -18,8 +18,8 @@ I've spent 2+ years building data pipelines and backend services:
 | Project | What it is | Stack |
 |---|---|---|
 | [**EduFlow**](https://github.com/mohsenyniki/eduflow) | End-to-end streaming pipeline: Kafka → S3 → Airflow + PySpark → dbt star schema → FastAPI dashboard | Python, Kafka, Airflow, PySpark, dbt, PostgreSQL, Docker, K8s, Terraform |
-| [**Course Scheduler**](https://github.com/mohsenyniki/student-portal-personal) | Full-stack student portal with course search, enrollment, and schedule-conflict detection | Java, Spring Boot, Spring Security, JDBC, SQLite |
-| [**Master of Jokes**](https://github.com/mohsenyniki/Flask-Master-of-Jokes) | Joke-sharing web app with auth, ratings, and comments | Python, Flask, SQLite |
+| [**Course Scheduler**](https://github.com/mohsenyniki/student-portal) | Full-stack student portal with course search, enrollment, and schedule-conflict detection | Java, Spring Boot, Spring Security, JDBC, SQLite |
+| [**Master of Jokes**](https://github.com/mohsenyniki/Flask-Master-of-Jokes) | Team project: joke-sharing web app. I built the user profiles, ratings, and comments | Python, Flask, SQLite |
 
 ### 📫 Contact
 
