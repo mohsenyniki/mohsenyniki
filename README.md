@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm Niki 👋
 
-<!--
-**mohsenyniki/mohsenyniki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data & Software Engineer** and **AWS Certified Data Engineer (Associate)** with a CS degree from Indiana University (Software Engineering specialization, Data Science minor).
 
-Here are some ideas to get you started:
+I've spent 2+ years building data pipelines and backend services:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Aga Khan Foundation**: built Python/SQL pipelines into AWS S3 and Redshift, and moved a manual spreadsheet process to scheduled Airflow DAGs with pytest validation (**1.5 hrs → 15 min**)
+- **EPAM Systems**: built REST APIs and tuned queries for an internal HR/finance tool (**minutes → seconds**), containerized it with Docker for Kubernetes, and set up CloudWatch monitoring
+
+### 🔧 Tech I work with
+
+- **Languages:** Python · SQL · Java · Kotlin · JavaScript · C++
+- **Data:** Airflow · PySpark · Kafka · dbt · PostgreSQL · Redshift · data modeling
+- **Backend & Cloud:** FastAPI · Spring Boot · REST APIs · AWS (S3, Redshift, CloudWatch) · Docker · Kubernetes · Terraform · CI/CD
+
+### 📌 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**EduFlow**](https://github.com/mohsenyniki/eduflow) | End-to-end streaming pipeline: Kafka → S3 → Airflow + PySpark → dbt star schema → FastAPI dashboard | Python, Kafka, Airflow, PySpark, dbt, PostgreSQL, Docker, K8s, Terraform |
+| [**Course Scheduler**](https://github.com/mohsenyniki/student-portal-personal) | Full-stack student portal with course search, enrollment, and schedule-conflict detection | Java, Spring Boot, Spring Security, JDBC, SQLite |
+| [**Master of Jokes**](https://github.com/mohsenyniki/Flask-Master-of-Jokes) | Joke-sharing web app with auth, ratings, and comments | Python, Flask, SQLite |
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/nikbakht-mohseny-97b2a8295) · mohsenyniki03@gmail.com
+
+*Open to Data Engineer, Software Engineer, and Backend roles.*
