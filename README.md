@@ -4,14 +4,13 @@ I'm a **Data & Software Engineer** and **AWS Certified Data Engineer (Associate)
 
 I've spent 2+ years building data pipelines and backend services:
 
-- **Aga Khan Foundation**: built Python/SQL pipelines into AWS S3 and Redshift, and moved a manual spreadsheet process to scheduled Airflow DAGs with pytest validation (**1.5 hrs → 15 min**)
-- **EPAM Systems**: built REST APIs and tuned queries for an internal HR tool (**minutes → seconds**), containerized it with Docker for Kubernetes, and set up CloudWatch monitoring
+- **Aga Khan Foundation**: built Python/SQL pipelines into AWS S3 and Redshift, and moved a manual spreadsheet process to scheduled Airflow DAGs with pytest validation 
 
 ### 🔧 Tech I work with
 
 - **Languages:** Python · SQL · Java · Kotlin · JavaScript · C++
 - **Data:** Airflow · PySpark · Kafka · dbt · PostgreSQL · Redshift · data modeling
-- **Backend & Cloud:** FastAPI · Spring Boot · REST APIs · AWS (S3, Redshift, CloudWatch) · Docker · Kubernetes · Terraform · CI/CD
+- **Backend & Cloud:** FastAPI · Spring Boot · REST APIs · AWS (S3, Redshift, CloudWatch) · Docker · Terraform · CI/CD
 
 ### 📌 Featured projects
 
