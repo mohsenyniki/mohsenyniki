@@ -4,7 +4,7 @@ I'm a **Data & Software Engineer** and **AWS Certified Data Engineer (Associate)
 
 I've spent 2+ years building data pipelines and backend services:
 
-- **Aga Khan Foundation**: built Python/SQL pipelines into AWS S3 and Redshift, and moved a manual spreadsheet process to scheduled Airflow DAGs with pytest validation 
+- **Aga Khan Foundation Kyrgyzstan**: built Python/SQL pipelines into AWS S3 and Redshift, and moved a manual spreadsheet process to scheduled Airflow DAGs with pytest validation 
 
 ### 🔧 Tech I work with
 
